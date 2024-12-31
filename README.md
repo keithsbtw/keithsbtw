@@ -1,6 +1,7 @@
 # 💫 About Me:
 
-**Hi there! I'm a passionate developer from Turkey. I enjoy building projects and exploring new technologies. My skills include Python, JavaScript, C#, and a bit of Ruby. Always learning and growing!**
+**i tinker with things i find interesting i love writing code
+i'm also a full-stack developer.**
 
 
 ## 🌐 Socials:
