@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-**i tinker with things i find interesting i like to write code **
+**i tinker with things i find interesting i like to write code**
 
 
 ## 🌐 Socials:
