@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-**i tinker with things i find interesting i love writing code
-i'm also a full-stack developer.**
+**i tinker with things i find interesting i like to write code **
 
 
 ## 🌐 Socials:
